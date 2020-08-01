@@ -33,7 +33,7 @@ $ npm run build
 
 ### Author
 
-Brad Traversy
+Jordan Tingling, 
 [Traversy Media](http://www.traversymedia.com)
 
 ### License
