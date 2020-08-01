@@ -17,10 +17,10 @@
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "babel-preset-stage-0": "^6.24.1",
-    "webpack": "^3.8.1",
-    "webpack-dev-server": "^2.9.4"
+    "webpack": "^4.44.1",
+    "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "json-server": "^0.12.1"
+    "json-server": "^0.16.1"
   }
 }
